@@ -1,0 +1,2 @@
+image-1.PNG-----  1,2 ve 3
+image-4.PNG-----maximum 4 switch....minimum 2 switch
